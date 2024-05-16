@@ -7,7 +7,7 @@ export default function Hero() {
                 </div>
 
                 <div className="col-start-1 col-end-12 row-start-1 row-end-12">
-                    <img src="/track_runner.svg" alt="Vector image of runner on track" className="" />
+                    <img src="/track_runner.svg" alt="Vector image of runner on track" />
                 </div>
             </div>
         </>

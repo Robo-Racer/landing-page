@@ -16,6 +16,9 @@ const config: Config = {
       boxShadow: {
         'header': '0 20px 25px -15px rgba(0, 0, 0, 0.7)',
       },
+      maxHeight: {
+        '60': '50rem'
+      }
     },
   },
   plugins: [],
