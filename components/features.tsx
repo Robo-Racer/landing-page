@@ -41,7 +41,7 @@ export default function Features() {
                     </div>
 
                     <div className="col-start-1 col-end-5 row-start-5 row-end-9 flex items-start justify-center">
-                        <img src="/performance_iphone.png" alt="Screenshot of controls on web interface." className="object-contain h-full" />
+                        <img src="/performance_iphone.png" alt="Screenshot of performance on web interface." className="object-contain h-full" />
                     </div>
                 </div>
             </div>
