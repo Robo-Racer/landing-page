@@ -32,7 +32,7 @@ export default function Features() {
                         <p>RoboRacer maintains consistent speed so that track athletes can run alongside it. Just choose any speed and distance — sprinters and distance runners alike will benefit.</p>
                     </div>
                     <div className="col-start-5 col-end-9 row-start-1 row-end-5 flex items-start justify-center">
-                        <img src="/controls_iphone.png" alt="Screenshot of controls on web interface." className="object-contain h-full" />
+                        <img src="/controls_iphone.PNG" alt="Screenshot of controls on web interface." className="object-contain h-full" />
                     </div>
 
                     <div className="col-start-5 col-end-9 row-start-6">
@@ -41,7 +41,7 @@ export default function Features() {
                     </div>
 
                     <div className="col-start-1 col-end-5 row-start-5 row-end-9 flex items-start justify-center">
-                        <img src="/performance_iphone.png" alt="Screenshot of performance on web interface." className="object-contain h-full" />
+                        <img src="/performance_iphone.PNG" alt="Screenshot of performance on web interface." className="object-contain h-full" />
                     </div>
                 </div>
             </div>
