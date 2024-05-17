@@ -1,7 +1,7 @@
 export default function Features() {
     return (
         <>
-            <div className="mx-20 text-white">
+            <div id="features" className="mx-20 text-white">
                 <div className="flex justify-center items-start">
                     <div className="m-10 w-1/4">
                         <h1 className="font-semibold text-3xl mb-5">Customizable speed</h1>
